@@ -32,3 +32,8 @@ This project aims to analyze customer support tickets to identify recurring issu
 ```bash
 git clone https://github.com/AdwinTS/FUTURE_DS_02.git
 cd FUTURE_DS_02
+```
+## Output
+
+![Image](https://github.com/user-attachments/assets/5c4e55ea-f4b7-442c-9829-9b18322a0991)
+
