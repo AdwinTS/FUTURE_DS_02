@@ -30,5 +30,5 @@ This project aims to analyze customer support tickets to identify recurring issu
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/your-username/customer-support-analysis.git](https://github.com/AdwinTS/FUTURE_DS_02.git)
+git clone https://github.com/AdwinTS/FUTURE_DS_02.git
 cd FUTURE_DS_02
